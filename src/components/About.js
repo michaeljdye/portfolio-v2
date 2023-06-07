@@ -49,7 +49,7 @@ const About = () => {
             <div className="about_right">
               {/* Download CV Button */}
               <div className="resumo_fn_cv_btn">
-                <a href="img/cv.jpg" download>
+                <a href="pdf/michael-dye-resume.pdf" download>
                   <span className="icon">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -119,42 +119,75 @@ const About = () => {
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Frenify LLC</h5>
-                          <span>( 2018 — Today )</span>
+                          <h5>Udacity</h5>
+                          <span>( 2022 — 2023 )</span>
                         </div>
-                        <h3>Sr. Front-end Engineer</h3>
+                        <h3>Frontend Engineer, Content Platform</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          During my time at Udacity as a Frontend Engineer, I
+                          had the opportunity to work with an incredible team on
+                          the Content Platform. Together, we built new features
+                          that revolutionized the content development lifecycle.
+                          I also took the lead in developing a streamlined
+                          enrollments tool and successfully migrated the Mocha
+                          platform to Next.js, enhancing performance and
+                          scalability.{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Google LLC</h5>
-                          <span>( 2016 — 2018 )</span>
+                          <h5>Bellhop</h5>
+                          <span>( 2021 — 2022 )</span>
                         </div>
-                        <h3>Front-end Developer</h3>
+                        <h3>Frontend Engineer, Growth</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          As a Frontend Engineer at Bellhop, I had the
+                          opportunity to build impactful features for
+                          customer-facing web applications. My responsibilities
+                          included closely monitoring application performance,
+                          strategizing improvements, and promptly resolving
+                          technical issues. Collaborating with a talented team,
+                          we consistently delivered exceptional user experiences
+                          and worked towards driving continuous innovation.{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Twitter LLC</h5>
-                          <span>( 2016 — 2011 )</span>
+                          <h5>Campaign Monitor</h5>
+                          <span>( 2019 — 2020 )</span>
                         </div>
-                        <h3>Graphic Designer</h3>
+                        <h3>Frontend Engineer, Growth</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          Developed features for enterprise marketing sites in
+                          the SaaS space. Optimized sites for performance,
+                          accessibility, and conversion. Migrated legacy tech
+                          stacks to a modern, unified system.{" "}
+                        </p>
+                      </div>
+                    </li>
+                    <li>
+                      <div className="item">
+                        <div className="item_top">
+                          <h5>Horton Group</h5>
+                          <span>( 2014 — 2019 )</span>
+                        </div>
+                        <h3>Software Engineer, Custom Shop</h3>
+                        <p>
+                          As a Software Engineer at Horton Group, I wore
+                          multiple hats, not just as a developer but also as a
+                          skilled project manager. Alongside a talented, agile
+                          development team, I engineered, tested, and launched
+                          serverless applications, leveraging my expertise in
+                          React and Next.js. I also took charge of managing the
+                          construction of engaging custom WordPress marketing
+                          sites for national and local businesses. It was a
+                          rewarding experience to combine technical prowess with
+                          project management skills to deliver remarkable
+                          digital solutions.{" "}
                         </p>
                       </div>
                     </li>
@@ -171,42 +204,50 @@ const About = () => {
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Frenify University</h5>
+                          <h5>Udacity</h5>
                           <span>( 2014 — 2017 )</span>
                         </div>
-                        <h3>Computer Science</h3>
+                        <h3>Frontend Web Developer Nanodegree</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          The Front End Web Developer Nanodegree program equips
+                          learners with the unique skills they need to build
+                          high-quality websites and dynamic applications to
+                          create stunning user experiences for the web.{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Edu University</h5>
+                          <h5>Udacity</h5>
                           <span>( 2011 — 2014 )</span>
                         </div>
-                        <h3>Master Degree</h3>
+                        <h3>Full Stack Javascript Developer Nanodegree</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          Mastered the skills necessary to become a successful
+                          full stack developer. Learned how to build UI and UX,
+                          create APIs and server side business logic and develop
+                          the persistence layer to store, process and retrieve
+                          data.{" "}
                         </p>
                       </div>
                     </li>
                     <li>
                       <div className="item">
                         <div className="item_top">
-                          <h5>Clolumbia College</h5>
+                          <h5>Middle Tennessee State University</h5>
                           <span>( 2007 — 2011 )</span>
                         </div>
                         <h3>Bachelor Degree</h3>
                         <p>
-                          Adipisicing Lorem ipsum dolor sit amet, consectetur
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua.{" "}
+                          Activities and societies: Cum Laude, Dean’s List, Phi
+                          Kappa Phi, Kappa Tau AlphaActivities and societies:
+                          Cum Laude, Dean’s List, Phi Kappa Phi, Kappa Tau Alpha
+                        </p>
+                        <br />
+                        <p>
+                          Minors: Marketing and SociologyMinors: Marketing and
+                          Sociology{" "}
                         </p>
                       </div>
                     </li>
@@ -219,23 +260,65 @@ const About = () => {
               <div id="tab3" className={`tab_item ${activeList("tab3")}`}>
                 {/* Progress Bar */}
                 <div className="resumo_fn_progress_bar">
-                  <div className="progress_item open" data-value={92}>
+                  <div className="progress_item open" data-value={98}>
                     <div className="item_in">
-                      <h3 className="progress_title">Adobe Photoshop</h3>
+                      <h3 className="progress_title">JavaScript</h3>
                       <span
                         className="progress_percent"
-                        style={{ right: "8%" }}
+                        style={{ right: "2%" }}
                       >
-                        92%
+                        98%
                       </span>
                       <div className="bg_wrap">
-                        <div className="progress_bg" style={{ width: "92%" }} />
+                        <div className="progress_bg" style={{ width: "98%" }} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress_item open" data-value={92}>
+                    <div className="item_in">
+                      <h3 className="progress_title">TypeScript</h3>
+                      <span
+                        className="progress_percent"
+                        style={{ right: "10%" }}
+                      >
+                        90%
+                      </span>
+                      <div className="bg_wrap">
+                        <div className="progress_bg" style={{ width: "90%" }} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress_item open" data-value={99}>
+                    <div className="item_in">
+                      <h3 className="progress_title">HTML5 &amp; CSS3</h3>
+                      <span
+                        className="progress_percent"
+                        style={{ right: "1%" }}
+                      >
+                        99%
+                      </span>
+                      <div className="bg_wrap">
+                        <div className="progress_bg" style={{ width: "97%" }} />
+                      </div>
+                    </div>
+                  </div>
+                  <div className="progress_item open" data-value={97}>
+                    <div className="item_in">
+                      <h3 className="progress_title">React</h3>
+                      <span
+                        className="progress_percent"
+                        style={{ right: "3%" }}
+                      >
+                        97%
+                      </span>
+                      <div className="bg_wrap">
+                        <div className="progress_bg" style={{ width: "95%" }} />
                       </div>
                     </div>
                   </div>
                   <div className="progress_item open" data-value={95}>
                     <div className="item_in">
-                      <h3 className="progress_title">HTML5 &amp; CSS3</h3>
+                      <h3 className="progress_title">Next.js</h3>
                       <span
                         className="progress_percent"
                         style={{ right: "5%" }}
@@ -247,23 +330,9 @@ const About = () => {
                       </div>
                     </div>
                   </div>
-                  <div className="progress_item open" data-value={80}>
-                    <div className="item_in">
-                      <h3 className="progress_title">WordPress</h3>
-                      <span
-                        className="progress_percent"
-                        style={{ right: "20%" }}
-                      >
-                        80%
-                      </span>
-                      <div className="bg_wrap">
-                        <div className="progress_bg" style={{ width: "80%" }} />
-                      </div>
-                    </div>
-                  </div>
                   <div className="progress_item open" data-value={85}>
                     <div className="item_in">
-                      <h3 className="progress_title">Adobe Illustrator</h3>
+                      <h3 className="progress_title">Node.js</h3>
                       <span
                         className="progress_percent"
                         style={{ right: "15%" }}
@@ -275,17 +344,31 @@ const About = () => {
                       </div>
                     </div>
                   </div>
+                  <div className="progress_item open" data-value={93}>
+                    <div className="item_in">
+                      <h3 className="progress_title">GraphQL</h3>
+                      <span
+                        className="progress_percent"
+                        style={{ right: "7%" }}
+                      >
+                        93%
+                      </span>
+                      <div className="bg_wrap">
+                        <div className="progress_bg" style={{ width: "93%" }} />
+                      </div>
+                    </div>
+                  </div>
                 </div>
 
                 {/* /Progress Bar */}
                 {/* Description */}
                 <div className="resumo_fn_desc">
                   <p>
-                    A freelance creative designer with a love for minimal
-                    design, clean typography and well-written code, located in
-                    San Francisco. Provide high quality and cost effective
-                    offshore web and software development services. Wide range
-                    of web and software development services across the world.
+                    Proven expertise in leading large-scale migrations,
+                    implementing cutting-edge technologies, and architecting
+                    seamless user experiences, resulting in improved
+                    performance, accelerated development, and increased customer
+                    engagement.
                   </p>
                 </div>
               </div>

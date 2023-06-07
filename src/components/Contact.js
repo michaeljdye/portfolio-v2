@@ -147,14 +147,14 @@ const Contact = () => {
           {/* Contact Info */}
           <div className="resumo_fn_contact_info">
             <p>Address</p>
-            <h3>69 Queen St, London, United Kingdom</h3>
+            <h3>Nashville, TN</h3>
             <p>Phone</p>
             <h3>
-              <a href="tel:+7068980751">(+706) 898-0751</a>
+              <a href="tel:+6154232458">615-423-2458</a>
             </h3>
             <p>
-              <a className="fn__link" href="mailto:trendycoder.com@gmail.com">
-                trendycoder.com@gmail.com
+              <a className="fn__link" href="mailto:hello@michaeldye.dev">
+                hello@michaeldye.dev
               </a>
             </p>
           </div>

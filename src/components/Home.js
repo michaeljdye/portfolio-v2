@@ -10,7 +10,9 @@ const Home = () => {
             <p className="desc">
               I am a growth-driven developer dedicated to building a better web.
             </p>
-            {/* <img src="img/signature.png" alt="image" /> */}
+            <div>
+              <p className="script">Michael Dye</p>
+            </div>
           </div>
           {/* /Main Title */}
         </div>
