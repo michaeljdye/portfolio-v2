@@ -23,16 +23,16 @@ const Index = () => {
       <Portfolio />
       {/* /Portfolio Section */}
       {/* Services Section */}
-      <Services />
+      {/* <Services /> */}
       {/* /Services Section */}
       {/* Customers Section */}
-      <CustomerLight />
+      {/* <CustomerLight /> */}
       {/* /Customers Section */}
       {/* News Section */}
-      <News />
+      {/* <News /> */}
       {/* /News Section */}
       {/* Contact Section */}
-      <Contact />
+      {/* <Contact /> */}
       {/* /Contact Section */}
     </Layout>
   );

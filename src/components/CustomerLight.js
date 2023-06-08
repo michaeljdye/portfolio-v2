@@ -7,8 +7,8 @@ const CustomerLight = () => {
         <div className="roww">
           {/* Main Title */}
           <div className="resumo_fn_main_title">
-            <h3 className="subtitle">Customers</h3>
-            <h3 className="title">Happy People</h3>
+            <h3 className="subtitle">Companies</h3>
+            <h3 className="title">Previous Employers</h3>
           </div>
           {/* /Main Title */}
           {/* Partners */}
@@ -20,7 +20,7 @@ const CustomerLight = () => {
                 </a>
               </li>
               <li>
-                <a href="https://frenify.com/"  rel="noreferrer" target="_blank">
+                <a href="https://frenify.com/" rel="noreferrer" target="_blank">
                   <img src="img/partners/dark/2.png" alt="" />
                 </a>
               </li>
@@ -29,7 +29,6 @@ const CustomerLight = () => {
                   href="https://themeforest.net/item/rewall-personal-portfolio-template/34316546"
                   rel="noreferrer"
                   target="_blank"
-
                 >
                   <img src="img/partners/dark/3.png" alt="" />
                 </a>
@@ -39,28 +38,43 @@ const CustomerLight = () => {
                   href="https://themeforest.net/item/artemiz-blog-podcast-wordpress-theme/28455063"
                   rel="noreferrer"
                   target="_blank"
-
                 >
                   <img src="img/partners/dark/4.png" alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/wetland-multi-purpose-react-next-js-template-for-startup/33851796" rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/wetland-multi-purpose-react-next-js-template-for-startup/33851796"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/dark/5.png" alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/edunet-react-personal-tutor-lms-dashboard-ui-kit/31635576" rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/edunet-react-personal-tutor-lms-dashboard-ui-kit/31635576"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/dark/6.png" alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/appz-mobile-app-landing-react-nextjs-template/34385390" rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/appz-mobile-app-landing-react-nextjs-template/34385390"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/dark/7.png" alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/rewall-pesonal-portfolio-react-nextjs-template/34826425" rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/rewall-pesonal-portfolio-react-nextjs-template/34826425"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/dark/3.png" alt="" />
                 </a>
               </li>
@@ -78,7 +92,7 @@ const CustomerLight = () => {
               </a>
             </div>
             <Swiper {...customersSliderProps} className="owl-carousel">
-              <SwiperSlide className="item" key={1} >
+              <SwiperSlide className="item" key={1}>
                 <div className="title_holder">
                   <p className="desc">
                     “ They really nailed it. This is one of the best themes I
