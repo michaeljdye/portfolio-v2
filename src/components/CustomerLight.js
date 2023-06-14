@@ -16,12 +16,12 @@ const CustomerLight = () => {
             <ul>
               <li>
                 <a href="https://envato.com/" rel="noreferrer" target="_blank">
-                  <img src="img/partners/dark/1.png" alt="" />
+                  <img src="img/partners/1.png" alt="" />
                 </a>
               </li>
               <li>
                 <a href="https://frenify.com/" rel="noreferrer" target="_blank">
-                  <img src="img/partners/dark/2.png" alt="" />
+                  <img src="img/partners/2.png" alt="" />
                 </a>
               </li>
               <li>
@@ -30,7 +30,7 @@ const CustomerLight = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  <img src="img/partners/dark/3.png" alt="" />
+                  <img src="img/partners/3.png" alt="" />
                 </a>
               </li>
               <li>
@@ -39,43 +39,7 @@ const CustomerLight = () => {
                   rel="noreferrer"
                   target="_blank"
                 >
-                  <img src="img/partners/dark/4.png" alt="" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://themeforest.net/item/wetland-multi-purpose-react-next-js-template-for-startup/33851796"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <img src="img/partners/dark/5.png" alt="" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://themeforest.net/item/edunet-react-personal-tutor-lms-dashboard-ui-kit/31635576"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <img src="img/partners/dark/6.png" alt="" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://themeforest.net/item/appz-mobile-app-landing-react-nextjs-template/34385390"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <img src="img/partners/dark/7.png" alt="" />
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://themeforest.net/item/rewall-pesonal-portfolio-react-nextjs-template/34826425"
-                  rel="noreferrer"
-                  target="_blank"
-                >
-                  <img src="img/partners/dark/3.png" alt="" />
+                  <img src="img/partners/4.png" alt="" />
                 </a>
               </li>
             </ul>

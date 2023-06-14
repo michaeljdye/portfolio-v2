@@ -5,6 +5,8 @@ import Modalbox from "./Modalbox";
 const Portfolio = () => {
   const [modal, setModal] = useState(false);
   const [modalValue, setModalValue] = useState(null);
+
+  console.log("modalValue", modalValue);
   return (
     <section id="portfolio">
       {modal && <Modalbox close={setModal} value={modalValue} />}
@@ -43,20 +45,20 @@ const Portfolio = () => {
             >
               <div className="img_holder">
                 <img src="img/thumb/square.jpg" alt="image" />
-                <div className="abs_img" data-bg-img="img/portfolio/1.jpg" />
+                <div className="abs_img" data-bg-img="img/portfolio/1.png" />
               </div>
               <div className="title_holder">
                 <p>illustration, design</p>
                 <h3>
-                  <a href="#">Sweet Cherry</a>
+                  <a href="#">Send2Win</a>
                 </h3>
               </div>
               <div className="fn__hidden">
                 <p className="fn__cat">illustration, design</p>
-                <h3 className="fn__title">Sweet Cherry</h3>
+                <h3 className="fn__title">Send2Win</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
-                  <div className="abs_img" data-bg-img="img/portfolio/1.jpg" />
+                  <div className="abs_img" data-bg-img="img/portfolio/1.png" />
                 </div>
                 <p className="fn__desc">
                   Sed ornare tellus a odio bibendum, at tristique sapien
@@ -79,26 +81,26 @@ const Portfolio = () => {
               className="item modal_item"
               onClick={() => {
                 setModal(true);
-                setModalValue(3);
+                setModalValue(2);
               }}
-              data-index={3}
+              data-index={2}
             >
               <div className="img_holder">
                 <img src="img/thumb/square.jpg" alt="image" />
-                <div className="abs_img" data-bg-img="img/portfolio/2.jpg" />
+                <div className="abs_img" data-bg-img="img/portfolio/2.png" />
               </div>
               <div className="title_holder">
                 <p>web, mobile, online</p>
                 <h3>
-                  <a href="#">Delicious Fruit</a>
+                  <a href="#">Udacity Content Platform</a>
                 </h3>
               </div>
               <div className="fn__hidden">
                 <p className="fn__cat">web, mobile, online</p>
-                <h3 className="fn__title">Delicious Fruit</h3>
+                <h3 className="fn__title">Udacity Content Platform</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
-                  <div className="abs_img" data-bg-img="img/portfolio/2.jpg" />
+                  <div className="abs_img" data-bg-img="img/portfolio/2.png" />
                 </div>
                 <p className="fn__desc">
                   Sed ornare tellus a odio bibendum, at tristique sapien
@@ -138,26 +140,26 @@ const Portfolio = () => {
               className="item modal_item"
               onClick={() => {
                 setModal(true);
-                setModalValue(2);
+                setModalValue(3);
               }}
-              data-index={2}
+              data-index={3}
             >
               <div className="img_holder">
                 <img src="img/thumb/square.jpg" alt="image" />
-                <div className="abs_img" data-bg-img="img/portfolio/3.jpg" />
+                <div className="abs_img" data-bg-img="img/portfolio/3.png" />
               </div>
               <div className="title_holder">
                 <p>design, vector</p>
                 <h3>
-                  <a href="#">Blue Lemon</a>
+                  <a href="#">Bellhop Moving Dashboard</a>
                 </h3>
               </div>
               <div className="fn__hidden">
                 <p className="fn__cat">design, vector</p>
-                <h3 className="fn__title">Blue Lemon</h3>
+                <h3 className="fn__title">Bellhop Moving Dashboard</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
-                  <div className="abs_img" data-bg-img="img/portfolio/3.jpg" />
+                  <div className="abs_img" data-bg-img="img/portfolio/3.png" />
                 </div>
                 <p className="fn__desc">
                   Sed ornare tellus a odio bibendum, at tristique sapien
@@ -203,20 +205,20 @@ const Portfolio = () => {
             >
               <div className="img_holder">
                 <img src="img/thumb/square.jpg" alt="image" />
-                <div className="abs_img" data-bg-img="img/portfolio/4.jpg" />
+                <div className="abs_img" data-bg-img="img/portfolio/4.png" />
               </div>
               <div className="title_holder">
                 <p>mobile, design</p>
                 <h3>
-                  <a href="#">Yellow Phone</a>
+                  <a href="#">Ok Move Me App</a>
                 </h3>
               </div>
               <div className="fn__hidden">
                 <p className="fn__cat">mobile, design</p>
-                <h3 className="fn__title">Yellow Phone</h3>
+                <h3 className="fn__title">Ok Move Me App</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
-                  <div className="abs_img" data-bg-img="img/portfolio/4.jpg" />
+                  <div className="abs_img" data-bg-img="img/portfolio/4.png" />
                 </div>
                 <p className="fn__desc">
                   Sed ornare tellus a odio bibendum, at tristique sapien
@@ -262,20 +264,20 @@ const Portfolio = () => {
             >
               <div className="img_holder">
                 <img src="img/thumb/square.jpg" alt="image" />
-                <div className="abs_img" data-bg-img="img/portfolio/5.jpg" />
+                <div className="abs_img" data-bg-img="img/portfolio/5.png" />
               </div>
               <div className="title_holder">
                 <p>mobile, design</p>
                 <h3>
-                  <a href="#">Ice Cream</a>
+                  <a href="#">Explore the Nations</a>
                 </h3>
               </div>
               <div className="fn__hidden">
                 <p className="fn__cat">mobile, design</p>
-                <h3 className="fn__title">Ice Cream</h3>
+                <h3 className="fn__title">Explore the Nations</h3>
                 <div className="img_holder">
                   <img src="img/thumb/square.jpg" alt="image" />
-                  <div className="abs_img" data-bg-img="img/portfolio/5.jpg" />
+                  <div className="abs_img" data-bg-img="img/portfolio/5.png" />
                 </div>
                 <p className="fn__desc">
                   Sed ornare tellus a odio bibendum, at tristique sapien

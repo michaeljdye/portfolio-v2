@@ -15,12 +15,12 @@ const Customers = () => {
           <div className="resumo_fn_partners">
             <ul>
               <li>
-                <a href="https://envato.com/"  rel="noreferrer" target="_blank">
+                <a href="https://envato.com/" rel="noreferrer" target="_blank">
                   <img src="img/partners/1.png" alt="image" />
                 </a>
               </li>
               <li>
-                <a href="https://frenify.com/"  rel="noreferrer" target="_blank">
+                <a href="https://frenify.com/" rel="noreferrer" target="_blank">
                   <img src="img/partners/2.png" alt="image" />
                 </a>
               </li>
@@ -37,28 +37,44 @@ const Customers = () => {
                 <a
                   href="https://themeforest.net/item/artemiz-blog-podcast-wordpress-theme/28455063"
                   target="_blank"
-                  rel="noreferrer"                 
+                  rel="noreferrer"
                 >
                   <img src="img/partners/4.png" alt="image" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/wetland-multi-purpose-react-next-js-template-for-startup/33851796"   rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/wetland-multi-purpose-react-next-js-template-for-startup/33851796"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/5.png" alt="image" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/edunet-react-personal-tutor-lms-dashboard-ui-kit/31635576"  rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/edunet-react-personal-tutor-lms-dashboard-ui-kit/31635576"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/6.png" alt="image" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/appz-mobile-app-landing-react-nextjs-template/34385390"  rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/appz-mobile-app-landing-react-nextjs-template/34385390"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/7.png" alt="image" />
                 </a>
               </li>
               <li>
-                <a href="https://themeforest.net/item/rewall-pesonal-portfolio-react-nextjs-template/34826425"  rel="noreferrer" target="_blank">
+                <a
+                  href="https://themeforest.net/item/rewall-pesonal-portfolio-react-nextjs-template/34826425"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/3.png" alt="image" />
                 </a>
               </li>
@@ -76,7 +92,7 @@ const Customers = () => {
               </a>
             </div>
             <Swiper {...customersSliderProps} className="owl-carousel">
-              <SwiperSlide className="item" key='1'>
+              <SwiperSlide className="item" key="1">
                 <div className="title_holder">
                   <p className="desc">
                     “ They really nailed it. This is one of the best themes I
@@ -88,7 +104,7 @@ const Customers = () => {
                   <h3 className="subtitle">Freelancer &amp; Designer</h3>
                 </div>
               </SwiperSlide>
-              <SwiperSlide className="item" key='2'>
+              <SwiperSlide className="item" key="2">
                 <div className="title_holder">
                   <p className="desc">
                     {`“ This was exactly what I needed for my portfolio,
@@ -101,7 +117,7 @@ const Customers = () => {
                   <h3 className="subtitle">Photographer</h3>
                 </div>
               </SwiperSlide>
-              <SwiperSlide className="item" key='3'>
+              <SwiperSlide className="item" key="3">
                 <div className="title_holder">
                   <p className="desc">
                     “ Had a problem with the layout after Installation- found no

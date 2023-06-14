@@ -7,7 +7,7 @@ import SwiperCore, {
 SwiperCore.use([Pagination, Navigation, Autoplay, EffectFade]);
 
 export const portfolioSliderProps = {
-  slidesPerView: 1,
+  slidesPerView: 3,
   loop: true,
   spaceBetween: 30,
   speed: 1000,

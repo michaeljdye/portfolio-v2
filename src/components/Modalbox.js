@@ -4,56 +4,59 @@ import { dataImage } from "../utilits";
 const Modalbox = ({ close, value }) => {
   const data = [
     {
-      name: "Sweet Cherry",
+      name: "Send2Win App",
       tag: "illustration, design",
       desc: [
-        { p: "Sed ornare tellus a odio bibendum, at tristique sapien malesuada. Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in." }
-      ]
-
+        {
+          p: "Send2Win give users the chance to test their email knowledge by designing the perfect send.",
+          p: "React, JS and Firebase",
+        },
+      ],
     },
     {
-      name: "Delicious Fruit",
+      name: "Udacity Content Platform",
       tag: "web, mobile, online",
       desc: [
-        { p: "Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Integer ornare fringilla arcu, eu mattis risus convallis in." },
-        { p: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in. Sed ornare tellus a odio bibendum, at tristique sapien malesuada. " }
-      ]
-
+        {
+          p: "Udacity's content platform provides a rich set of content creation features instructors used to develop impactful programs for students.",
+        },
+        { p: "Typescript, Next.js and GraphQL" },
+      ],
     },
     {
-      name: "Ice Cream",
-      tag: "mobile, design", 
-      desc: [
-        { p: "Sed ornare tellus a odio bibendum, at tristique sapien malesuada. Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in."}
-      ]
-
-    },
-    {
-      name: "Blue Lemon",
+      name: "Bellhop Moving Dashboard",
       tag: "design, vector",
       desc: [
-        { p: "Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Integer ornare fringilla arcu, eu mattis risus convallis in." },
-        { p: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in. Sed ornare tellus a odio bibendum, at tristique sapien malesuada." }
-      ]
-
+        {
+          p: "Bellhop moving Dashboard allows you to modify, reschedule, and review your move details all in one convenient place.",
+        },
+        {
+          p: "React, Next.js and GraphQL",
+        },
+      ],
     },
     {
-      name: "Ice Cream",
+      name: "OkMoveMe App",
       tag: "mobile, design",
       desc: [
-        { p: "Sed ornare tellus a odio bibendum, at tristique sapien malesuada. Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in." }
-      ]
-
+        {
+          p: "OkMoveMe allows you to manage your move from one centralized dashboard, which includes checklists, moving resources and more.",
+        },
+        {
+          p: "React, JS and CSS",
+        },
+      ],
     },
     {
-      name: "Yellow Phone",
+      name: "Explore the Nations",
       tag: "mobile, design",
       desc: [
-        { p: "Proin sagittis maximus accumsan. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Integer ornare fringilla arcu, eu mattis risus convallis in."},
-        { p: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque gravida quam sit amet elit varius tempor. Pellentesque purus eros, blandit eu mollis vel, commodo eget orci. Proin vel hendrerit ex. Vivamus ut ex at nunc consectetur efficitur ut quis est. Proin posuere orci eget vulputate fringilla. Curabitur placerat massa eget efficitur cursus. Sed sollicitudin rhoncus blandit. Nam accumsan vestibulum enim. Sed rutrum eu leo pellentesque lobortis. Integer ornare fringilla arcu, eu mattis risus convallis in. Sed ornare tellus a odio bibendum, at tristique sapien malesuada."}
-      ]
-
-    }
+        {
+          p: "Explore The Nations features some of the top restaurants in The Nations. The app works with the Yelp and Google maps APIs to retrieve dynamic data about each location.",
+          p: "React, JS and CSS",
+        },
+      ],
+    },
   ];
 
   const [index, setIndex] = useState(value);
@@ -94,10 +97,10 @@ const Modalbox = ({ close, value }) => {
                       <img src="/img/thumb/square.jpg" alt="" />
                       <div
                         className="abs_img"
-                        data-bg-img={`/img/portfolio/${index}.jpg`}
+                        data-bg-img={`/img/portfolio/${index}.png`}
                       />
                     </div>
-                    {d.desc.map((des,i) => (
+                    {d.desc.map((des, i) => (
                       <p key={i} className="fn__desc">
                         {des.p}
                       </p>
