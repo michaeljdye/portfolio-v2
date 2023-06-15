@@ -40,23 +40,6 @@ const Intro = () => {
             </div>
           </div>
         </div>
-        <footer id="footer">
-          <div className="footer_content">
-            <p>
-              Copyright © {new Date().getFullYear()}. All rights reserved.{" "}
-              <br />
-              Designed &amp; Developed by{" "}
-              <a
-                className="fn__link"
-                href="https://themeforest.net/user/trendycoder"
-                target="_blank"
-                rel="noreferrer"
-              >
-                TrendyCoder
-              </a>
-            </p>
-          </div>
-        </footer>
       </div>
       <Cursor />
     </Fragment>

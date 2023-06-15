@@ -15,18 +15,26 @@ const CustomerLight = () => {
           <div className="resumo_fn_partners">
             <ul>
               <li>
-                <a href="https://envato.com/" rel="noreferrer" target="_blank">
+                <a
+                  href="https://www.udacity.com/"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/1.png" alt="" />
                 </a>
               </li>
               <li>
-                <a href="https://frenify.com/" rel="noreferrer" target="_blank">
+                <a
+                  href="https://www.getbellhops.com/"
+                  rel="noreferrer"
+                  target="_blank"
+                >
                   <img src="img/partners/2.png" alt="" />
                 </a>
               </li>
               <li>
                 <a
-                  href="https://themeforest.net/item/rewall-personal-portfolio-template/34316546"
+                  href="https://www.campaignmonitor.com/"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -35,7 +43,7 @@ const CustomerLight = () => {
               </li>
               <li>
                 <a
-                  href="https://themeforest.net/item/artemiz-blog-podcast-wordpress-theme/28455063"
+                  href="https://hortongroup.com/"
                   rel="noreferrer"
                   target="_blank"
                 >
@@ -59,38 +67,37 @@ const CustomerLight = () => {
               <SwiperSlide className="item" key={1}>
                 <div className="title_holder">
                   <p className="desc">
-                    “ They really nailed it. This is one of the best themes I
-                    have seen in a long time. Very nice design with lots of
-                    customization available. Many of my clients have chosen this
-                    theme for their portfolio sites. ”
+                    “Michael is an innovative and empathetic engineer. I had the
+                    pleasure of serving as his manager at Bellhop, where he
+                    consistently rose above expectations. He pushed us to adopt
+                    new technology, adhere to best in class development
+                    standards, and create a welcoming, results driven
+                    engineering culture. Michael without a doubt is someone you
+                    can trust to get work done efficiently without compromising
+                    quality. It was a joy to work with him, and I can't wait to
+                    see where his career will take him.”
                   </p>
-                  <h3 className="title">Albert Walker</h3>
-                  <h3 className="subtitle">Freelancer &amp; Designer</h3>
+                  <h3 className="title">Emily Thomas</h3>
+                  <h3 className="subtitle">Principal Software Engineer</h3>
                 </div>
               </SwiperSlide>
+
               <SwiperSlide className="item" key={2}>
                 <div className="title_holder">
                   <p className="desc">
-                    {`“ This was exactly what I needed for my portfolio,
-                              and it looks great. I had a couple issues that
-                              support helped troubleshoot both via email and on
-                              the comments, which definitely made it worth the
-                              price. I'm very pleased with this purchase. ”`}
+                    “I've worked alongside Michael for 2 years now, and he has
+                    never been anything less than a pleasure to work with. He
+                    bring positivity and an open mind into every situation, and
+                    has always been a true advocate for his clients and team
+                    members. He's genuinely passionate about what he does, and
+                    is always looking for ways to expand his skill set and grow
+                    as a professional. I'd be happy to serve as a reference for
+                    Michael, both personally and professionally. ”
                   </p>
-                  <h3 className="title">Anna Barbera</h3>
-                  <h3 className="subtitle">Photographer</h3>
-                </div>
-              </SwiperSlide>
-              <SwiperSlide className="item" key={3}>
-                <div className="title_holder">
-                  <p className="desc">
-                    “ Had a problem with the layout after Installation- found no
-                    approach. The support reacted quickly and competently. And
-                    solved the problem between Elementor and a WordPress update.
-                    Great! ”
-                  </p>
-                  <h3 className="title">Dana Atkins</h3>
-                  <h3 className="subtitle">Customer</h3>
+                  <h3 className="title">Peter Campbell</h3>
+                  <h3 className="subtitle">
+                    Director and Lead Project Manager
+                  </h3>
                 </div>
               </SwiperSlide>
             </Swiper>

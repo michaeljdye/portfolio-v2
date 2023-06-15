@@ -194,17 +194,6 @@ const Nav = ({ close, trigger }) => {
                 </li>
               </ul>
             </div>
-            <div className="copyright">
-              {" "}
-              Developed by &nbsp;
-              <a
-                href="https://themeforest.net/user/trendycoder"
-                target="_blank"
-                rel="noreferrer"
-              >
-                TrendyCoder
-              </a>
-            </div>
           </div>
         </div>
 

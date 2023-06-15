@@ -1289,7 +1289,7 @@ a:focus {
   right: 0;
   bottom: 0;
 
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -1526,7 +1526,7 @@ a:focus {
 .resumo_fn_partners li {
   margin: 0;
   padding: 0;
-  width: 33.3333%;
+  width: 50%;
   padding-left: 10px;
   margin-bottom: 10px;
 }

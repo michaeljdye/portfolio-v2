@@ -53,6 +53,8 @@ const Modalbox = ({ close, value }) => {
       desc: [
         {
           p: "Explore The Nations features some of the top restaurants in The Nations. The app works with the Yelp and Google maps APIs to retrieve dynamic data about each location.",
+        },
+        {
           p: "React, JS and CSS",
         },
       ],

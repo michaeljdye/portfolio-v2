@@ -3,7 +3,6 @@ import { Fragment, useEffect, useState } from "react";
 import PanelContent from "../components/PanelContent";
 import { aTagClick, customCursor, dataImage, sticky } from "../utilits";
 import Cursor from "./Cursor";
-import Footer from "./Footer";
 import Nav from "./Nav";
 import Triggger from "./Triggger";
 
@@ -22,7 +21,7 @@ const Layout = ({ children }) => {
   return (
     <Fragment>
       <Head>
-        <title>Resumo Home | Personal Portfolio React NextJS Template</title>
+        <title>Michael Dye | Frontend Engineer</title>
       </Head>
       <div className="resumo_fn_wrapper">
         {/* MODALBOX */}
@@ -34,7 +33,6 @@ const Layout = ({ children }) => {
             {/* Page */}
             <div className="resumo_fn_page">{children}</div>
             {/* /Page */}
-            <Footer />
           </div>
           {/* /Main Left Part */}
           {/* Main Right Part */}
