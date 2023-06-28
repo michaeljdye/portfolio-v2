@@ -8,7 +8,9 @@ const Modalbox = ({ close, value }) => {
       tag: "illustration, design",
       desc: [
         {
-          p: "Send2Win give users the chance to test their email knowledge by designing the perfect send.",
+          p: "Send2Win gives users the chance to test their email knowledge by designing the perfect send.",
+        },
+        {
           p: "React, JS and Firebase",
         },
       ],
