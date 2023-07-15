@@ -228,8 +228,10 @@ a:focus {
   top: 0;
 
   background-size: cover;
-  background-position: center;
+  background-position: top center;
   background-repeat: no-repeat;
+  background-blend-mode: multiply;
+  background-color: rgba(0, 0, 0, 0.07);
 }
 .resumo_fn_right .title_holder {
   text-align: center;
@@ -1290,7 +1292,7 @@ a:focus {
   bottom: 0;
 
   background-size: contain;
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
 }
 #portfolio .img_holder img {
