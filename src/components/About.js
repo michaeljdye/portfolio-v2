@@ -135,14 +135,10 @@ const About = () => {
                         </div>
                         <h3>Frontend Engineer III, Content Platform</h3>
                         <p>
-                          During my time at Udacity as a Frontend Engineer, I
-                          had the opportunity to work with an incredible team on
-                          the Content Platform. Together, we built new features
-                          that revolutionized the content development lifecycle.
-                          I also took the lead in developing a streamlined
-                          enrollments tool and successfully migrated the Mocha
-                          platform to Next.js, enhancing performance and
-                          scalability.{" "}
+                          Architected robust solutions across content creation
+                          projects and shipped code for high-visibility products
+                          to millions of users as part of a globally distributed
+                          team.
                         </p>
                       </div>
                     </li>
@@ -154,14 +150,10 @@ const About = () => {
                         </div>
                         <h3>Frontend Engineer II, Growth</h3>
                         <p>
-                          As a Frontend Engineer at Bellhop, I had the
-                          opportunity to build impactful features for
-                          customer-facing web applications. My responsibilities
-                          included closely monitoring application performance,
-                          strategizing improvements, and promptly resolving
-                          technical issues. Collaborating with a talented team,
-                          we consistently delivered exceptional user experiences
-                          and worked towards driving continuous innovation.{" "}
+                          Built impactful features for customer-facing web
+                          applications. Monitored application performance,
+                          strategized improvements, and quickly resolved
+                          technical issues.
                         </p>
                       </div>
                     </li>
@@ -173,10 +165,10 @@ const About = () => {
                         </div>
                         <h3>Frontend Engineer II, Growth</h3>
                         <p>
-                          Developed features for enterprise marketing sites in
-                          the SaaS space. Optimized sites for performance,
-                          accessibility, and conversion. Migrated legacy tech
-                          stacks to a modern, unified system.{" "}
+                          Built and shipped features for enterprise marketing
+                          sites in the SaaS space. Optimized sites for
+                          performance, accessibility, and conversion. Migrated
+                          legacy tech stacks to a modern, unified system.
                         </p>
                       </div>
                     </li>
@@ -184,21 +176,32 @@ const About = () => {
                       <div className="item">
                         <div className="item_top">
                           <h5>Horton Group</h5>
-                          <span>( 2014 — 2019 )</span>
+                          <span>( 2018 — 2019 )</span>
                         </div>
                         <h3>Software Engineer I, Custom Shop</h3>
                         <p>
-                          As a Software Engineer at Horton Group, I wore
-                          multiple hats, not just as a developer but also as a
-                          skilled project manager. Alongside a talented, agile
-                          development team, I engineered, tested, and launched
-                          serverless applications, leveraging my expertise in
-                          React and Next.js. I also took charge of managing the
-                          construction of engaging custom WordPress marketing
-                          sites for national and local businesses. It was a
-                          rewarding experience to combine technical prowess with
-                          project management skills to deliver remarkable
-                          digital solutions.{" "}
+                          Engineered, tested, and launched serverless
+                          applications as part of a small, agile development
+                          team. Constructed custom WordPress marketing sites for
+                          national and local brands, like Nissan Stadium.
+                        </p>
+                      </div>
+                    </li>
+                    <li>
+                      <div className="item">
+                        <div className="item_top">
+                          <h5>Horton Group</h5>
+                          <span>( 2014 — 2017 )</span>
+                        </div>
+                        <h3>
+                          Interactive Project Manager / Digital Marketing
+                          Strategist
+                        </h3>
+                        <p>
+                          Thrived in the dual role of Project Manager and
+                          Digital Marketing Strategist, overseeing website
+                          builds and crafting inbound marketing campaigns for
+                          clients in the dynamic Nashville area.
                         </p>
                       </div>
                     </li>
