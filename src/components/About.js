@@ -12,7 +12,18 @@ const About = () => {
             <h3 className="subtitle">About Me</h3>
             <h3 className="title">Biography</h3>
             <p className="desc">
-              {`I am a Software Engineer with 9+ years in tech and 5+ years of experience building engaging, performant, and accessible websites and applications.`}
+              Hey there! 👋 <br />
+              <br />
+              I'm a Senior Software Engineer with more than 5 years of
+              experience. I've been lucky enough to collaborate with some
+              absolutely fantastic teams, creating kick-ass products along the
+              way.
+              <br /> <br />I call Nashville, TN my home, where I live with my
+              lovely wife, awesome daughter, and the most cuddly cat you can
+              imagine. Besides hanging out with my loved ones, you'll often find
+              me strumming my guitar, diving into a good book, exploring the
+              great outdoors, or getting my sweat on at the gym. Life's an
+              adventure, and I'm loving every moment of it!
             </p>
           </div>
           {/* /Main Title */}
@@ -122,7 +133,7 @@ const About = () => {
                           <h5>Udacity</h5>
                           <span>( 2022 — 2023 )</span>
                         </div>
-                        <h3>Frontend Engineer, Content Platform</h3>
+                        <h3>Frontend Engineer III, Content Platform</h3>
                         <p>
                           During my time at Udacity as a Frontend Engineer, I
                           had the opportunity to work with an incredible team on
@@ -141,7 +152,7 @@ const About = () => {
                           <h5>Bellhop</h5>
                           <span>( 2021 — 2022 )</span>
                         </div>
-                        <h3>Frontend Engineer, Growth</h3>
+                        <h3>Frontend Engineer II, Growth</h3>
                         <p>
                           As a Frontend Engineer at Bellhop, I had the
                           opportunity to build impactful features for
@@ -160,7 +171,7 @@ const About = () => {
                           <h5>Campaign Monitor</h5>
                           <span>( 2019 — 2020 )</span>
                         </div>
-                        <h3>Frontend Engineer, Growth</h3>
+                        <h3>Frontend Engineer II, Growth</h3>
                         <p>
                           Developed features for enterprise marketing sites in
                           the SaaS space. Optimized sites for performance,
@@ -175,7 +186,7 @@ const About = () => {
                           <h5>Horton Group</h5>
                           <span>( 2014 — 2019 )</span>
                         </div>
-                        <h3>Software Engineer, Custom Shop</h3>
+                        <h3>Software Engineer I, Custom Shop</h3>
                         <p>
                           As a Software Engineer at Horton Group, I wore
                           multiple hats, not just as a developer but also as a
