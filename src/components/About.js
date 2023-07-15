@@ -220,10 +220,9 @@ const About = () => {
                         </div>
                         <h3>Frontend Web Developer Nanodegree</h3>
                         <p>
-                          The Front End Web Developer Nanodegree program equips
-                          learners with the unique skills they need to build
-                          high-quality websites and dynamic applications to
-                          create stunning user experiences for the web.{" "}
+                          Learned the unique skills needed to build high-quality
+                          websites and dynamic applications to create stunning
+                          user experiences for the web.{" "}
                         </p>
                       </div>
                     </li>
@@ -252,14 +251,10 @@ const About = () => {
                         <h3>Bachelor Degree</h3>
                         <p>
                           Activities and societies: Cum Laude, Dean’s List, Phi
-                          Kappa Phi, Kappa Tau AlphaActivities and societies:
-                          Cum Laude, Dean’s List, Phi Kappa Phi, Kappa Tau Alpha
+                          Kappa Phi, Kappa Tau Alpha
                         </p>
                         <br />
-                        <p>
-                          Minors: Marketing and SociologyMinors: Marketing and
-                          Sociology{" "}
-                        </p>
+                        <p>Minors: Marketing and Sociology</p>
                       </div>
                     </li>
                   </ul>
