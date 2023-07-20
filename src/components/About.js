@@ -148,7 +148,7 @@ const About = () => {
                           <h5>Bellhop</h5>
                           <span>( 2021 — 2022 )</span>
                         </div>
-                        <h3>Frontend Engineer II, Growth</h3>
+                        <h3>Software Engineer II, Growth</h3>
                         <p>
                           Built impactful features for customer-facing web
                           applications. Monitored application performance,
