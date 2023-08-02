@@ -16,13 +16,13 @@ const About = () => {
               <br />
               I'm a Senior Software Engineer with more than 5 years of
               experience. I've been lucky enough to collaborate with some
-              absolutely fantastic teams, creating kick-ass products along the
-              way.
+              absolutely fantastic teams, creating mind-blowing products along
+              the way.
               <br /> <br />I call Nashville, TN my home, where I live with my
               lovely wife, awesome daughter, and the most cuddly cat you can
               imagine. Besides hanging out with my loved ones, you'll often find
               me strumming my guitar, diving into a good book, exploring the
-              great outdoors, or getting my sweat on at the gym. Life's an
+              great outdoors, or getting my workout on at the gym. Life's an
               adventure, and I'm loving every moment of it!
             </p>
           </div>
