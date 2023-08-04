@@ -25,7 +25,7 @@ const PanelContent = () => {
         <div className="border2" />
         <div className="img_holder">
           <img src="img/thumb/square.jpg" alt="image" />
-          <div className="abs_img" data-bg-img="img/right.png" />
+          <div className="abs_img" data-bg-img="img/right.jpeg" />
         </div>
         <div className="title_holder">
           <h5>Hi There! I am</h5>
