@@ -6,7 +6,7 @@ const Home = () => {
           {/* Main Title */}
           <div className="resumo_fn_main_title">
             <h3 className="subtitle">Introduction</h3>
-            <h3 className="title">Senior Frontend Engineer</h3>
+            <h3 className="title">Senior Software Engineer</h3>
             <p className="desc">
               I am a growth-driven engineer dedicated to building a better web,
               specializing in React, Next.js, TypeScript and Node.js.
