@@ -133,7 +133,7 @@ const About = () => {
                           <h5>Udacity</h5>
                           <span>( 2022 — 2023 )</span>
                         </div>
-                        <h3>Frontend Engineer III, Content Platform</h3>
+                        <h3>Software Engineer, Content Platform</h3>
                         <p>
                           Architected robust solutions across content creation
                           projects and shipped code for high-visibility products
@@ -148,7 +148,7 @@ const About = () => {
                           <h5>Bellhop</h5>
                           <span>( 2021 — 2022 )</span>
                         </div>
-                        <h3>Software Engineer II, Growth</h3>
+                        <h3>Software Engineer, Growth</h3>
                         <p>
                           Built impactful features for customer-facing web
                           applications. Monitored application performance,
@@ -163,7 +163,7 @@ const About = () => {
                           <h5>Campaign Monitor</h5>
                           <span>( 2019 — 2020 )</span>
                         </div>
-                        <h3>Frontend Engineer II, Growth</h3>
+                        <h3>Software Engineer, Growth</h3>
                         <p>
                           Built and shipped features for enterprise marketing
                           sites in the SaaS space. Optimized sites for
@@ -178,7 +178,7 @@ const About = () => {
                           <h5>Horton Group</h5>
                           <span>( 2018 — 2019 )</span>
                         </div>
-                        <h3>Software Engineer I, Custom Shop</h3>
+                        <h3>Software Engineer, Custom Shop</h3>
                         <p>
                           Engineered, tested, and launched serverless
                           applications as part of a small, agile development
@@ -193,10 +193,7 @@ const About = () => {
                           <h5>Horton Group</h5>
                           <span>( 2014 — 2017 )</span>
                         </div>
-                        <h3>
-                          Interactive Project Manager / Digital Marketing
-                          Strategist
-                        </h3>
+                        <h3>Web and Marketing Project Manager</h3>
                         <p>
                           Thrived in the dual role of Project Manager and
                           Digital Marketing Strategist, overseeing website
