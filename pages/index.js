@@ -16,12 +16,12 @@ const Index = () => {
     <Layout>
       <Home />
       {/* /Home Section */}
-      {/* About Section */}
-      <About />
-      {/* /About Section */}
       {/* Portfolio Section */}
       <Portfolio />
       {/* /Portfolio Section */}
+      {/* About Section */}
+      <About />
+      {/* /About Section */}
       {/* Services Section */}
       {/* <Services /> */}
       {/* /Services Section */}
